@@ -6,6 +6,7 @@
 Obtén una captura de pantalla que muestre la realización de la actividad.
 Establece en PC2 que tenga configuración automática de los parámetros de red,
 Obtén una captura de pantalla que muestre la realización de la actividad.
+
 2.	Escribe las líneas del archivo dhcpd.conf (no tienes que modificar el archivo), que serían necesarias para establecer que:
 2.1.	El servidor DHCP es autoritativo.
 2.2.	El tiempo de concesión por defecto es de dos horas.

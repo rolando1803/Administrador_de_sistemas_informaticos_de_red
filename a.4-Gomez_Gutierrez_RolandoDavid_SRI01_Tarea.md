@@ -6,6 +6,7 @@
 Obtén una captura de pantalla que muestre la realización de la actividad.
 Establece en PC2 que tenga configuración automática de los parámetros de red,
 Obtén una captura de pantalla que muestre la realización de la actividad.
+
 2.	Escribe las líneas del archivo dhcpd.conf (no tienes que modificar el archivo), que serían necesarias para establecer que:
 2.1.	El servidor DHCP es autoritativo.
 2.2.	El tiempo de concesión por defecto es de dos horas.
@@ -40,4 +41,3 @@ Debes crear una declaración de subred DHCP para la subred 192.168.N.0 máscara 
 
 NOTA IMPORTANTE
 Para el apartado 3 es necesario entregar las capturas de pantalla de los principales pasos realizados, explicando el proceso seguido en cada uno de ellos. Las capturas de pantalla realizadas deben tener como fondo de pantalla la plataforma con tu usuario mostrando claramente la foto de tu perfil. Aquellos apartados/subapartados que no cumplan esta condición no serán corregidos.
-

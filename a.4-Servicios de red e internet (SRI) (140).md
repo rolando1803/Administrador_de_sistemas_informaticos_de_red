@@ -14,7 +14,30 @@
   	
       Obtén una captura de pantalla que muestre la realización de la actividad.
 
-2.	Escribe las líneas del archivo dhcpd.conf (no tienes que modificar el archivo), que serían necesarias para establecer que:
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/5e085f6c-9e26-44ba-8254-2db3a11bca50)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/01967a58-8518-47f8-be7b-71bdc01736dc)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/ade636b2-6402-41b3-9120-6279729c9b79)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/9eb9f68a-4d82-4419-9b57-6b2a0b5d1cf3)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/5df02e4e-5e74-404c-a7e4-197586732503)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/f7caa977-4162-4091-bbab-b282ca4d9b44)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/6b7bb1de-9e0b-423f-810a-b4ac895c87d0)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/4386ec2f-e0b7-403b-acc6-04a3e3bda5de)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/3ae70e0b-b160-4846-940a-3e8261dfc94d)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/9e9e1336-9bb7-4963-b868-347eee05481c)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/1f5f3536-8953-424b-9356-2c787fd39faa)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/b3d4fed5-1f56-43d2-8f81-87416e20d54c)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/7856bb63-703e-4cec-810c-fb09513ba8a5)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/5b2db433-c6d4-410c-8124-fafb262fdf09)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/d6418a63-3683-48f4-bdb8-42395c556229)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/f88d5418-5413-440d-afcf-6339edd32c70)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/e402d5fe-e3c3-4c37-ae3f-6c089b796fc3)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/69871383-7cbf-462a-bad5-7e245de178de)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/b707effb-f70b-45f9-8490-574b9d1b4514)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/77f4f55d-a82c-4e0f-8fe7-429317535aa4)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/a81eb1f6-b7a4-48cb-9314-cdd5db3d4a20)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/439672a0-176c-46e0-af27-d55134092c16)
+
+3.	Escribe las líneas del archivo dhcpd.conf (no tienes que modificar el archivo), que serían necesarias para establecer que:
 
     2.1.	El servidor DHCP es autoritativo.
     
@@ -28,7 +51,7 @@
     
     2.6.	La IP de la puerta de enlace entregada a los clientes será 192.168.N.254.
   	
-3.	Escribe las líneas del archivo dhcpd.conf (no tienes que modificar el archivo), necesarias para que el servidor asigne dinámicamente direcciones IP en los rangos 192.168.N.11-192.168.N.50 y 192.168.N.100-     192.168.N.149 en la subred a la que pertenece el servidor. Para todos los clientes DHCP de esta subred establece que:
+4.	Escribe las líneas del archivo dhcpd.conf (no tienes que modificar el archivo), necesarias para que el servidor asigne dinámicamente direcciones IP en los rangos 192.168.N.11-192.168.N.50 y 192.168.N.100-     192.168.N.149 en la subred a la que pertenece el servidor. Para todos los clientes DHCP de esta subred establece que:
 
     3.1.	El tiempo de concesión por defecto es de una hora.
   	
@@ -38,13 +61,13 @@
   	
     3.4.	La dirección de broadcast entregada a los clientes es 192.168.N.255.
   	
-4.	Escribe las líneas del archivo dhcpd.conf (no tienes que modificar el archivo), necesarias para que se realice la declaración de un grupo en el que todos los clientes del grupo tendrán un tiempo de            concesión por defecto de media hora. En el grupo se harán dos reservas para:
+5.	Escribe las líneas del archivo dhcpd.conf (no tienes que modificar el archivo), necesarias para que se realice la declaración de un grupo en el que todos los clientes del grupo tendrán un tiempo de            concesión por defecto de media hora. En el grupo se harán dos reservas para:
 
     4.1.	Dirección MAC 00:08:01:12:23:34, IP asignada 192.168.N.3 y nombre asignado al equipo "PC3.aulasri.local".
     
     4.2.	Dirección MAC 00:08:01:34:45:56, IP asignada 192.168.N.4 y nombre asignado al equipo "PC4.aulasri.local".
 
-5.	Realiza con la herramienta gráfica Webmin la configuración del servicio DHCP para que haga lo siguiente, mostrando con las capturas de pantalla necesarias la realización de la actividad.
+6.	Realiza con la herramienta gráfica Webmin la configuración del servicio DHCP para que haga lo siguiente, mostrando con las capturas de pantalla necesarias la realización de la actividad.
     Debes crear una declaración de subred DHCP para la subred 192.168.N.0 máscara 255.255.255.0. En esta subred debes:
   	
     5.1.	Definir dos rangos de direcciones IP para asignar a los clientes dinámicamente:
@@ -68,11 +91,11 @@
   	5.6.2.	Dirección MAC 00:08:01:34:45:56, IP asignada 192.168.N.4 y nombre asignado a la máquina equipo "PC4.aulasri.local".
 
   	5.7.	Las dos máquinas dispondrán de un tiempo de concesión por defecto de media hora. Y a la máquina PC4 se le asignará como servidor de tiempo NTP el servidor de IP 200.23.51.205 y como servidor DNS         8.8.8.8.
-6.	Detén e inicia el servidor DHCP con comandos y muestra una captura de pantalla de lo realizado.
+7.	Detén e inicia el servidor DHCP con comandos y muestra una captura de pantalla de lo realizado.
 
-7.	Inicia el cliente PC2 y obtén la configuración de los parámetros de red (al menos IP, máscara, puerta de enlace y servidores DNS) con comandos. Muestra una captura de pantalla con la ejecución de los          comandos y el resultado obtenido señalando los parámetros recibidos en la asignación dinámica.
+8.	Inicia el cliente PC2 y obtén la configuración de los parámetros de red (al menos IP, máscara, puerta de enlace y servidores DNS) con comandos. Muestra una captura de pantalla con la ejecución de los          comandos y el resultado obtenido señalando los parámetros recibidos en la asignación dinámica.
 
-8.	Realiza una captura de pantalla mostrando el contenido actual del archivo de concesiones en el servidor y explica su contenido..
+9.	Realiza una captura de pantalla mostrando el contenido actual del archivo de concesiones en el servidor y explica su contenido..
 
 NOTA IMPORTANTE
 Para el apartado 3 es necesario entregar las capturas de pantalla de los principales pasos realizados, explicando el proceso seguido en cada uno de ellos. Las capturas de pantalla realizadas deben tener como fondo de pantalla la plataforma con tu usuario mostrando claramente la foto de tu perfil. Aquellos apartados/subapartados que no cumplan esta condición no serán corregidos.

@@ -38,6 +38,19 @@
 ![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/a81eb1f6-b7a4-48cb-9314-cdd5db3d4a20)
 ![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/439672a0-176c-46e0-af27-d55134092c16)
 
+# Configuración gráfica de los parámetros de red en Linux Ubuntu.
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/d57cd889-983d-4de7-a5c2-44d27b1fc540)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/6e84759e-055e-4b81-b010-78974bfcaca6)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/4491e1a0-ea20-446f-926f-4847237df30f)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/7345c301-6401-4b28-b189-2a774b514083)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/3584754f-ceaf-4e6d-bc6e-146ab23d5704)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/8a41ec01-270e-49b4-b8f0-14cd18c40033)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/827f14ad-ba97-476b-b591-3d23a433ae03)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/c631782e-7a11-44b1-b705-a7754527508b)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/07780730-7a28-4fff-8b71-ba70c35083c1)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/0b7da946-de47-414a-af3a-0dbb2ed589d2)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/9b979df0-3439-4ec6-ae9d-69cb0682d414)
+
 # Configuración manual de parámetros de red en Windows 10.
 ![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/58cd4baf-733a-4a29-a8f2-e842ca5d95ab)
 ![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/4ede67c4-8133-4dd8-9377-a65085a3d595)
@@ -58,8 +71,6 @@
 ![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/b5ce4cd3-2351-4d5d-91b0-f2841569a4fc)
 ![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/47b836a9-46df-4ba1-9733-35f07ba3335c)
 ![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/a2d4e23f-4936-42e0-b2fe-55655ceec132)
-
-
 
 3.	Escribe las líneas del archivo dhcpd.conf (no tienes que modificar el archivo), que serían necesarias para establecer que:
 

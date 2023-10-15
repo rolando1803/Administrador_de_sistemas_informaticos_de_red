@@ -14,6 +14,7 @@
   	
       Obtén una captura de pantalla que muestre la realización de la actividad.
 
+Configuración manual de parámetros de red en Linux Ubuntu.
 ![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/5e085f6c-9e26-44ba-8254-2db3a11bca50)
 ![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/01967a58-8518-47f8-be7b-71bdc01736dc)
 ![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/ade636b2-6402-41b3-9120-6279729c9b79)

@@ -1,4 +1,4 @@
-# Apartado 1.Instalación y funcionamiento del servidor Web Apache.
+# Apartado 1.Instalación y funcionamiento del servidor Web Apache. 
 
 ## INSTALACIÓN SERVIDOR WEB APACHE UBUNTU 20.04
 ![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/d6cd4c9b-7ad1-4f7e-9de4-659e26d11ef4)

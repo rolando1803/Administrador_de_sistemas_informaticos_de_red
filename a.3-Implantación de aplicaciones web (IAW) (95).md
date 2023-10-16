@@ -91,4 +91,66 @@
 
 ## Apartado 4. Funcionamiento completo del entorno de trabajo con la aplicación PhpMyAdmin.
 
+Para comprobar el sistema que acabamos de instalar comenzamos por probar el servidor Apache.
+
+Para ello tenemos que abrir un navegador web y teclear en la barra de direcciones la dirección IP de bucle local (127.0.0.1) o localhost . Si hemos escrito el nombre de nuestro servidor podemos también ponerlo.
+
+Si está correctamente instalado nos aparecerá un mensaje indicándolo.
+
+El siguiente paso será comprobar la instalación de PHP. Para ello introducimos el siguiente código en el cuerpo de la página index.html, que se encuentra dentro de la carpeta htdocs del servidor Apache:
+
+```php
+<?php
+
+phpinfo();
+
+?>
+```
+
+Es conveniente modificar el nombre del fichero por index.php para indicar al servidor que debe llamar al intérprete de PHP. Si no hemos incluido este último nombre de fichero en la sección DirectoryIndex del servidor, entonces tendremos que añadir el nombre del fichero a la URL anterior: http://127.0.0.1/index.php.
+
+Si hemos realizado la instalación correctamente, nos aparecerá la información de como tenemos instalado PHP en nuestro servidor.
+
+El tercer paso sería comprobar la instalación de MySQL. Para ello, basta abrir una consola y acceder a MySQL tecleando: mysql -u nombre_de_usuario -p; e introducir la contraseña para ese usuario. Podemos crear una base de datos de prueba con una única tabla de una columna para probar su correcto funcionamiento.
+
+Nos queda por comprobar la comunicación entre PHP y MySQL Esto podemos hacerlo de dos modos:
+
+Si hemos instalado phpMyAdmin, accediendo a esta herramienta a través del navegador web dándole la ruta donde lo hayamos instalado. Lo habitual sería: http://127.0.0.1/phpMyAdmin.
+En caso contrario, introducimos el siguiente código en el fichero index.php:
+
+```php
+<?php
+
+echo "Intentando conectar a MySQL<br>\n";
+
+// Servidor
+$servidor = "localhost";
+
+// Entre comillas escribir nombre de usuario sin espacios
+$usuario = "nombre_del_usuario";
+
+// Entre comillas escribir contraseña de al menos 6 caracteres
+$contrasena = "contraseña_de_usuario";
+
+// Esquema de base de datos al que conecta
+$base = "esquema";
+
+if (!$conex = mysqli_connect($servidor, $usuario, $contrasena, $base)) {
+
+echo "No se ha establecido la conexión";
+
+}
+
+else{
+
+echo "¡¡¡ Ha funcionado el establecimiento de la conexión !!!";
+
+}
+
+?>
+```
+
+
+
+
 

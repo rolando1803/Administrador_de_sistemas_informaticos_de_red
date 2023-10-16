@@ -1,4 +1,4 @@
-1.	Apartado 1. Active Directory. En este apartado, configuraremos un Directorio con Windows Server 2019.
+1.	Apartado 1. Active Directory. En este apartado, configuraremos un Directorio con Windows Server 2019. 
 
     1.1.	Instalar un servidor Windows Server 2019 con Active Directory. El nombre de Dominio que vamos a utilizar será wbk.local.
     

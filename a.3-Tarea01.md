@@ -1,4 +1,4 @@
-Apartado 1. Instalación y funcionamiento del servidor Web Apache.
+Apartado 1. Instalación y funcionamiento del servidor Web Apache. 
 
 ![1-4 (1)](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/3d30fad0-eb69-400f-be59-181d37769f7b)
 ![1-4 (2)](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/027bb9ed-0869-428d-8a4f-ae82a4e155ba)

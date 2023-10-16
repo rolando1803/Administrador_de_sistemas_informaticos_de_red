@@ -72,10 +72,18 @@
 ![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/47b836a9-46df-4ba1-9733-35f07ba3335c)
 ![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/a2d4e23f-4936-42e0-b2fe-55655ceec132)
 
-3.	Escribe las líneas del archivo dhcpd.conf (no tienes que modificar el archivo), que serían necesarias para establecer que:
+2.	Escribe las líneas del archivo dhcpd.conf (no tienes que modificar el archivo), que serían necesarias para establecer que:
+
+     Para instalar el servidor DHCP (dhcpd) en Ubuntu 20.04.3, puedes utilizar el siguiente conjunto de comandos en la terminal.
+     Ten en cuenta que necesitarás privilegios de administrador para realizar estas acciones:
+  	
+  	```bash
+     sudo apt update
+     sudo apt install isc-dhcp-server
+     ```
 
     2.1.	El servidor DHCP es autoritativo.
-    
+   
     2.2.	El tiempo de concesión por defecto es de dos horas.
     
     2.3.	El tiempo de concesión máximo es de cuatro horas.
@@ -85,8 +93,24 @@
     2.5.	Las IPs de los servidores de dominio entregadas a los clientes serán 192.168.113.3 y 192.168.96.90.
     
     2.6.	La IP de la puerta de enlace entregada a los clientes será 192.168.N.254.
-  	
-4.	Escribe las líneas del archivo dhcpd.conf (no tienes que modificar el archivo), necesarias para que el servidor asigne dinámicamente direcciones IP en los rangos 192.168.N.11-192.168.N.50 y 192.168.N.100-     192.168.N.149 en la subred a la que pertenece el servidor. Para todos los clientes DHCP de esta subred establece que:
+
+   ```bash
+   authoritative;
+
+   default-lease-time 7200; # 2 horas
+   max-lease-time 14400;    # 4 horas
+
+   option domain-name "aulasri.local";
+   option domain-name-servers 192.168.113.3, 192.168.96.90;
+
+   subnet 192.168.22.0 netmask 255.255.255.0 {
+     range 192.168.22.100 192.168.22.200;
+     option routers 192.168.N.254;
+  # Otras opciones específicas de la configuración de la subred, si es necesario
+  }
+  ```
+
+3.	Escribe las líneas del archivo dhcpd.conf (no tienes que modificar el archivo), necesarias para que el servidor asigne dinámicamente direcciones IP en los rangos 192.168.N.11-192.168.N.50 y 192.168.N.100-     192.168.N.149 en la subred a la que pertenece el servidor. Para todos los clientes DHCP de esta subred establece que:
 
     3.1.	El tiempo de concesión por defecto es de una hora.
   	
@@ -95,12 +119,47 @@
     3.3.	La máscara para los clientes es 255.255.255.0.
   	
     3.4.	La dirección de broadcast entregada a los clientes es 192.168.N.255.
+  ```bash
+        subnet 192.168.N.0 netmask 255.255.255.0 {
+         range 192.168.N.11 192.168.N.50;
+         range 192.168.N.100 192.168.N.149;
+         default-lease-time 3600; # 1 hora
+         max-lease-time 7200;     # 2 horas
+         option subnet-mask 255.255.255.0;
+         option broadcast-address 192.168.N.255;
+        }
+  ```
   	
-5.	Escribe las líneas del archivo dhcpd.conf (no tienes que modificar el archivo), necesarias para que se realice la declaración de un grupo en el que todos los clientes del grupo tendrán un tiempo de            concesión por defecto de media hora. En el grupo se harán dos reservas para:
+4.	Escribe las líneas del archivo dhcpd.conf (no tienes que modificar el archivo), necesarias para que se realice la declaración de un grupo en el que todos los clientes del grupo tendrán un tiempo de            concesión por defecto de media hora. En el grupo se harán dos reservas para:
 
     4.1.	Dirección MAC 00:08:01:12:23:34, IP asignada 192.168.N.3 y nombre asignado al equipo "PC3.aulasri.local".
     
     4.2.	Dirección MAC 00:08:01:34:45:56, IP asignada 192.168.N.4 y nombre asignado al equipo "PC4.aulasri.local".
+```bash
+  # Declaración del grupo
+  group {
+  # Nombre del grupo
+  option domain-name "aulasri.local";
+  option domain-name-servers ns1.aulasri.local, ns2.aulasri.local;
+
+  # Tiempo de concesión por defecto (30 minutos)
+  default-lease-time 1800;
+
+  # Reserva para PC3
+  host PC3 {
+    hardware ethernet 00:08:01:12:23:34;
+    fixed-address 192.168.N.3;
+    option host-name "PC3.aulasri.local";
+  }
+
+  # Reserva para PC4
+  host PC4 {
+    hardware ethernet 00:08:01:34:45:56;
+    fixed-address 192.168.N.4;
+    option host-name "PC4.aulasri.local";
+  }
+}
+```
 
 6.	Realiza con la herramienta gráfica Webmin la configuración del servicio DHCP para que haga lo siguiente, mostrando con las capturas de pantalla necesarias la realización de la actividad.
     Debes crear una declaración de subred DHCP para la subred 192.168.N.0 máscara 255.255.255.0. En esta subred debes:
@@ -117,7 +176,8 @@
 
   	5.4.	Se establecerá PC1.aulasri.local como nombre del servidor.
 
-  	5.5.	A los clientes se les asignará la máscara 255.255.255.0, la IP de la puerta de enlace 192.168.N.254, la dirección de broadcast 192.168.3.255, el nombre de dominio aulasri.local y las direcciones IP      de los servidores de dominio 195.235.113.3 y 195.235.96.90.
+  	5.5.	A los clientes se les asignará la máscara 255.255.255.0, la IP de la puerta de enlace 192.168.N.254, la dirección de broadcast 192.168.3.255, el nombre de dominio aulasri.local y las direcciones IP      de los servidores de 
+     dominio 195.235.113.3 y 195.235.96.90.
 
   	5.6.	Dentro de la subred se declararán dos reservas para las máquinas:
 

@@ -50,3 +50,21 @@ Apartado 3. Instalación del servidor PHP.
 
 
 Apartado 4. Funcionamiento completo del entorno de trabajo con la aplicación PhpMyAdmin.
+
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/adab84c0-4950-40fd-a1e6-9511f6837a3a)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/4881dbc6-e087-4d04-b88c-f5d600e33588)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/25b4749d-01e9-4dec-be2c-d60a5c6b0f5a)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/c9e1c9a4-515b-4b28-85ea-864878356f6c)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/0bb2827f-f114-4923-81e7-d6a79907fcb6)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/9fcc771b-e228-4214-843c-75cb2d63e140)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/d2a4aae4-68d6-4fd4-8bb0-d95f54ee32be)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/f3b3d32b-1eb1-48d8-839d-9e850eff0ba6)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/08a4fe2e-9577-4b5f-9672-9796fbd49055)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/2456b630-d0ae-4aec-b7c9-a6cfcc3ae0a1)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/82a7d106-30dd-4574-83c2-2ce283d4d108)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/bc33add1-13fe-405b-9f12-bd9b21df9e8e)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/cfa693bd-c849-4997-9f31-2286d46b3494)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/0b55c53e-f4f7-429d-b4ce-2e06fd597fa5)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/74a0fb41-9793-4819-8c5b-3736faf14afb)
+
+

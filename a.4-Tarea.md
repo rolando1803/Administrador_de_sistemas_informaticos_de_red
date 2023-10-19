@@ -23,7 +23,7 @@
 ![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/ec9f2707-0eb0-46be-a44c-49aaeef3d855)
 
 
-3.	Escribe las líneas del archivo dhcpd.conf (no tienes que modificar el archivo), que serían necesarias para establecer que:
+2.	Escribe las líneas del archivo dhcpd.conf (no tienes que modificar el archivo), que serían necesarias para establecer que:
 
     2.1.	El servidor DHCP es autoritativo.
     
@@ -36,6 +36,12 @@
     2.5.	Las IPs de los servidores de dominio entregadas a los clientes serán 192.168.113.3 y 192.168.96.90.
     
     2.6.	La IP de la puerta de enlace entregada a los clientes será 192.168.N.254.
+
+   ![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/c5772a84-b7ba-4daf-bc8c-a72eebce57dd)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/abc10c0e-68a4-4ade-ab2a-0c561bc84a00)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/494a0dca-1def-4ddb-925e-eba736c85903)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/c3dab55a-f790-44d3-9ef3-9285dd2e162d)
+
   	
 4.	Escribe las líneas del archivo dhcpd.conf (no tienes que modificar el archivo), necesarias para que el servidor asigne dinámicamente direcciones IP en los rangos 192.168.N.11-192.168.N.50 y 192.168.N.100-     192.168.N.149 en la subred a la que pertenece el servidor. Para todos los clientes DHCP de esta subred establece que:
 

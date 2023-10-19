@@ -43,7 +43,7 @@
 ![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/c3dab55a-f790-44d3-9ef3-9285dd2e162d)
 
   	
-4.	Escribe las líneas del archivo dhcpd.conf (no tienes que modificar el archivo), necesarias para que el servidor asigne dinámicamente direcciones IP en los rangos 192.168.N.11-192.168.N.50 y 192.168.N.100-     192.168.N.149 en la subred a la que pertenece el servidor. Para todos los clientes DHCP de esta subred establece que:
+3.	Escribe las líneas del archivo dhcpd.conf (no tienes que modificar el archivo), necesarias para que el servidor asigne dinámicamente direcciones IP en los rangos 192.168.N.11-192.168.N.50 y 192.168.N.100-     192.168.N.149 en la subred a la que pertenece el servidor. Para todos los clientes DHCP de esta subred establece que:
 
     3.1.	El tiempo de concesión por defecto es de una hora.
   	
@@ -52,6 +52,11 @@
     3.3.	La máscara para los clientes es 255.255.255.0.
   	
     3.4.	La dirección de broadcast entregada a los clientes es 192.168.N.255.
+
+ ![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/1c87afcd-4690-4618-80b0-42a4f4d5f60c)
+
+   ![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/d3ca8deb-bf45-4489-83dd-f3e5a9cb9f59)
+
   	
 5.	Escribe las líneas del archivo dhcpd.conf (no tienes que modificar el archivo), necesarias para que se realice la declaración de un grupo en el que todos los clientes del grupo tendrán un tiempo de            concesión por defecto de media hora. En el grupo se harán dos reservas para:
 

@@ -135,6 +135,23 @@
     4.1.	Dirección MAC 00:08:01:12:23:34, IP asignada 192.168.N.3 y nombre asignado al equipo "PC3.aulasri.local".
     
     4.2.	Dirección MAC 00:08:01:34:45:56, IP asignada 192.168.N.4 y nombre asignado al equipo "PC4.aulasri.local".
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/6f65b6e0-bcf6-467d-a82c-9b2d8cc1e432)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/67cd8fb0-a41a-4f6d-b0f8-27150bde430e)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/6c7a356e-1240-4b80-bdcf-c3cd04989dad)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/ee2a567b-c032-426b-97f6-0267a1822647)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/f024fbae-aeef-4c31-8ab1-bf43def2b38e)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/924d7b19-9b4b-4f9e-a60b-c996aaec6105)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/dcf8a8ea-163c-48a3-bd18-3633be6b02a0)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/8c98aeed-4297-4233-9211-a23cc4c3ca07)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/735d86c4-664c-42fc-a7a6-8851f50b7142)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/b81c3b56-7704-4e3c-bec4-5b681fb0dd2d)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/6dd02ac0-2535-4378-ade6-89a2a7e0a29b)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/99a15635-cbcf-4df8-9405-ac881bfc63f0)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/a6cde4db-923d-4721-9cd8-fb01e34adea0)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/4d616c18-558f-49f0-a9de-d7554da190ff)
+
+
+   
 ```bash
   # Declaración del grupo
   group {

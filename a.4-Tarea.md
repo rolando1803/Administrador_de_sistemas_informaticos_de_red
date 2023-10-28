@@ -67,7 +67,7 @@
    ![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/45a7a434-d7a8-446e-8c84-d79dc3920304)
 
 
-6.	Realiza con la herramienta gráfica Webmin la configuración del servicio DHCP para que haga lo siguiente, mostrando con las capturas de pantalla necesarias la realización de la actividad.
+5.	Realiza con la herramienta gráfica Webmin la configuración del servicio DHCP para que haga lo siguiente, mostrando con las capturas de pantalla necesarias la realización de la actividad.
     Debes crear una declaración de subred DHCP para la subred 192.168.N.0 máscara 255.255.255.0. En esta subred debes:
   	
     5.1.	Definir dos rangos de direcciones IP para asignar a los clientes dinámicamente:
@@ -91,6 +91,14 @@
   	5.6.2.	Dirección MAC 00:08:01:34:45:56, IP asignada 192.168.N.4 y nombre asignado a la máquina equipo "PC4.aulasri.local".
 
   	5.7.	Las dos máquinas dispondrán de un tiempo de concesión por defecto de media hora. Y a la máquina PC4 se le asignará como servidor de tiempo NTP el servidor de IP 200.23.51.205 y como servidor DNS         8.8.8.8.
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/ae6abc3b-c4bb-4803-bcc1-ed88a6b92ef5)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/b2ca7875-a284-4124-acde-510d25ed37e4)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/aecd06db-6d9d-43bc-b8ed-c958cf971ce6)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/d3e56c42-1bc3-4560-be4e-787abffa96db)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/3b2f1b3f-6c9e-41b6-a1ee-b0c5c1295b1f)
+
+
+   
 7.	Detén e inicia el servidor DHCP con comandos y muestra una captura de pantalla de lo realizado.
 
 8.	Inicia el cliente PC2 y obtén la configuración de los parámetros de red (al menos IP, máscara, puerta de enlace y servidores DNS) con comandos. Muestra una captura de pantalla con la ejecución de los          comandos y el resultado obtenido señalando los parámetros recibidos en la asignación dinámica.

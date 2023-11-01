@@ -45,7 +45,12 @@ Descífra usando tu clave privada de AsirsadXX1, el documento cifradoLinux_Asirs
 ![2023-11-01 20 34 46 (7)](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/ff9ed397-cd5a-491b-b203-394486565d2a)
 ![2023-11-01 20 34 47 (1)](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/3cc995c2-fc33-44a8-a0cf-b58021c7f70a)
 ![2023-11-01 20 34 47 (2)](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/6e56dc99-b4a5-406e-b4e5-5208b24f8dd5)
-
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/9bbaed46-fe3e-4480-8daa-f29d0dda7125)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/423c2543-a00e-47a9-b895-fb667fc3842e)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/4ffbda8f-414d-4dca-8477-b6f07b6b18ea)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/b17c11af-2eb6-46da-a203-423b2e78e514)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/3cf224c6-d4c6-424c-9cad-8ab143e75da6)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/4f76c32f-002e-47f4-91ca-e88ce7816ad3)
 
 Apartado 2: Criptografia asimétrica Windows 
 

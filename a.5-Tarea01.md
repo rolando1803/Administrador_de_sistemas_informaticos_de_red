@@ -15,7 +15,7 @@ Genera un documento de texto y llámalo cifradoLinux_AsirsadXX2.txt. Cífralo co
 Descífra usando tu clave privada de AsirsadXX1, el documento cifradoLinux_AsirsadXX2.txt.
 
 ![2023-11-01 20 34 43 (1)](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/62a7e365-fb85-4f7b-b6f2-0160bb55d6ca)
-![2023-11-01 20 34 47 (2)](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/32707e46-2fc8-4724-bbeb-cb702fb74130)
+![2023-11-01 20 34 43 (2)](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/3595bf1b-675e-433a-b522-0de14768fac2)
 ![2023-11-01 20 34 43 (3)](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/d92302a3-05a6-4642-ac6f-0efdb62497b6)
 ![2023-11-01 20 34 43 (4)](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/955f73b1-1338-43f6-b44d-7131e5e616d8)
 ![2023-11-01 20 34 43 (5)](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/397c7683-8416-49db-b8fe-4a9c1a847b9d)

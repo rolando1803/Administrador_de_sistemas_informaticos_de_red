@@ -42,6 +42,7 @@ Descífra usando tu clave privada de AsirsadXX1, el documento cifradoLinux_Asirs
 ![2023-11-01 20 34 46 (4)](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/7f0818a4-4ae1-43fb-a184-6ce9fd42a233)
 ![2023-11-01 20 34 46 (5)](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/c6230a29-349b-4377-9507-d6835345678e)
 ![2023-11-01 20 34 46 (6)](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/77fd272c-7d13-4aea-8be8-854ae570e589)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/3c69dbf2-8d29-4c20-a2c3-c9a0f1ad156c)
 ![2023-11-01 20 34 46 (7)](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/ff9ed397-cd5a-491b-b203-394486565d2a)
 ![2023-11-01 20 34 47 (1)](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/3cc995c2-fc33-44a8-a0cf-b58021c7f70a)
 ![2023-11-01 20 34 47 (2)](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/6e56dc99-b4a5-406e-b4e5-5208b24f8dd5)

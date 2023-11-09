@@ -16,6 +16,28 @@
 ![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/e48686f6-2fec-4a92-a9ef-cb465f47f886)
 
 
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/18e02eeb-b98b-4d8d-94fc-10955459a8a5)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/8c0ebeb6-7eca-4f5a-a928-866c4c77d8ec)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/9458736d-71b8-49e2-bb21-25d40dc3dec8)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/0ac4daaa-84c2-485e-af2e-46aa1b2639bc)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/f77abca0-8f86-4aea-8610-1a7514be012a)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/44a40ba7-d684-48e5-a8ae-028681c57210)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/3dcd3c2c-e38d-42c9-8512-b55b59f1d388)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/2151b9ff-5217-41fe-8ec6-02e23c27fb1e)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/cf2402e6-87dd-483e-93cc-9890b541c769)
+
+
+
+
+
+
+
+
 3.	Apartado 2. Objetos de AD
 
     2.1.	Generar unidades organizativas, grupos y usuarios, así como recursos en el propio sistema para comprobar su funcionamiento.

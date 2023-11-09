@@ -34,8 +34,18 @@
 
 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
-
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/0f3d0501-55da-4eb6-af05-1b562c98d6de)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/6e4a68c7-ac78-4770-a8cf-cd1af77ec8c8)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/15e99db8-c71b-4810-82f9-98b5b0484ad7)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/2faaeeba-d0c2-432f-bdd4-a5f19d4709c2)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/5eef9831-4aef-43b0-b351-0ba696d8e68f)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/5305f91b-6328-47dd-9c48-f6c0615f33fa)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/6ea4ad8a-460a-4b88-90bb-f20693da846c)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/9551815b-10ce-4a8a-85cd-f58af4d1b67c)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/75c8c111-c734-4a26-b6fb-8fc063744cc4)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/f1a9a9fa-01c0-473f-b9b1-a600761f0c0a)
 
 
 3.	Apartado 2. Objetos de AD

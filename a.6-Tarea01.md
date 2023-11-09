@@ -47,6 +47,7 @@
 ![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/75c8c111-c734-4a26-b6fb-8fc063744cc4)
 ![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/f1a9a9fa-01c0-473f-b9b1-a600761f0c0a)
 
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/e49810ca-05ec-4b89-b52b-1681b323fc75)
 
 3.	Apartado 2. Objetos de AD
 

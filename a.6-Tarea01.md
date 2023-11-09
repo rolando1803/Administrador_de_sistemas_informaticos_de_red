@@ -6,7 +6,17 @@
     
     1.3.	Comprobar adecuadamente (y demostrar con capturas) que funciona cada uno de los puntos solicitados.
 
-2.	Apartado 2. Objetos de AD
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/38c63ac8-89c9-4e3c-9403-4d30e9437113)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/dcef0c29-1c19-4bfc-84ba-216ab0a0ce26)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/47a81c5c-57a1-4b05-a1da-61d1b28394f6)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/d960dda3-e20a-40be-9407-d7093be0f0fc)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/907f0b1a-2bd6-4e81-a52b-968586952884)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/0ee6fad4-c95c-4e6b-8548-88b79fa9563f)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/319d58a7-a624-49ee-9905-0c5f0e585fbd)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/e48686f6-2fec-4a92-a9ef-cb465f47f886)
+
+
+3.	Apartado 2. Objetos de AD
 
     2.1.	Generar unidades organizativas, grupos y usuarios, así como recursos en el propio sistema para comprobar su funcionamiento.
     
@@ -18,7 +28,7 @@
     
     2.4.	Comprobar adecuadamente (y demostrar con capturas) que funciona cada uno de los puntos solicitados.
 
-3.	Apartado 3. OpenLDAP. En este apartado, configuraremos un Directorio con Ubuntu Server 18.04.
+4.	Apartado 3. OpenLDAP. En este apartado, configuraremos un Directorio con Ubuntu Server 18.04.
 
     3.1.	Instalar un servidor Ubuntu 18.04 con OpenLDAP. El nombre Dominio que vamos a utilizar será lbk.local.
     
@@ -26,7 +36,7 @@
     
     3.3.	Comprobar adecuadamente (y demostrar con capturas) que funciona cada uno de los puntos solicitados.
 
-4.	Apartado 4. Objetos de OpenLDAP
+5.	Apartado 4. Objetos de OpenLDAP
 
     4.1.	Generar unidades organizativas, grupos y usuarios, así como recursos en el propio sistema para comprobar su funcionamiento.
     
@@ -36,7 +46,7 @@
     
     4.3.	Comprobar adecuadamente (y demostrar con capturas) que funciona cada uno de los puntos solicitados.
 
-5.	Apartado 5. Conclusiones y estudio comparativo.
+6.	Apartado 5. Conclusiones y estudio comparativo.
 
     5.1.	¿Existe alguna manera de integrar las funcionalidades de AD en GNU/Linux, usando sólo servidores GNU/Linux y ahorrando en licencias? Enlaza algún tutorial que explique cómo se haría.
     

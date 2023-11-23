@@ -180,6 +180,25 @@ Crea una imagen como evidencia de una unidad USB sobre la que previamente has de
 
 Abre una sesión en cualquier sitio web al que debas logarte. Usa la herramienta anterior para capturar toda la información existente en la memoria RAM. Monta dicha captura sobre una imagen y realiza un análisis forense de la imagen creada. Finalmente, captura la pantalla en la que se muestra la sesión abierta en el sitio web junto con las credenciales de acceso.
 
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/f7f8cf3a-779f-42ca-b352-68e92790248d)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/ad0e64f2-9c29-490c-9356-8527ce9b1c9a)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/eda79864-a978-45aa-994f-7284a2edb8c5)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/c491ab9a-431c-4073-ad5b-0535e8a2f37b)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/331066c6-d981-4b42-b8a7-b805a2b56ae8)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/436e14ad-48f9-4b89-b16a-ee9eeabb948d)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/adceeb46-93a0-45c5-917a-4c194021fd8f)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/39992ab2-2f57-48f9-9b9e-7c5e78b49cbd)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/f2cc671f-7fdb-4b5b-82d5-d776284a7d29)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/2977a8f4-733a-4ed1-a37d-f250945263c1)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/9b8c1085-1898-4c0c-bc7e-f3edafa69a53)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/3366cca1-3b52-4a6d-9355-42eb8b886811)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/82e8c961-a9f8-4a3c-9378-93b63bea9469)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/c1f182a4-d3b2-40bf-8fe0-afdcbf182fd3)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/306cb489-5254-45d5-bc8c-4236a3a424bb)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/f8aea2e4-4a12-486e-b3ff-d0473227cfa0)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/2c21b20d-61ba-4dcc-af10-a7e16eddea53)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/41da8725-f003-49d2-bef3-2cf9a171624f)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/1782289e-071b-4f8c-9868-d4484fe07699)
 
 
 

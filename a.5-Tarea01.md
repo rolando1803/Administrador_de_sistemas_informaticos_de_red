@@ -196,9 +196,11 @@ Abre una sesión en cualquier sitio web al que debas logarte. Usa la herramienta
 ![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/c1f182a4-d3b2-40bf-8fe0-afdcbf182fd3)
 ![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/306cb489-5254-45d5-bc8c-4236a3a424bb)
 ![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/f8aea2e4-4a12-486e-b3ff-d0473227cfa0)
-![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/2c21b20d-61ba-4dcc-af10-a7e16eddea53)
-![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/41da8725-f003-49d2-bef3-2cf9a171624f)
-![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/1782289e-071b-4f8c-9868-d4484fe07699)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/682ba6f8-c148-4e80-9151-6a5755ef47da)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/8e9a63c1-4ee9-40f3-aa09-1aea7959f267)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/9444af35-b381-411b-b318-c9fe842709c7)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/d2029756-2982-4c3e-8bf0-967a0613f018)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/9933922a-70f1-4ed3-8aaa-c98b7497f879)
 
 
 

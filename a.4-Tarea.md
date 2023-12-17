@@ -68,42 +68,39 @@
 
 
 5.	Realiza con la herramienta gráfica Webmin la configuración del servicio DHCP para que haga lo siguiente, mostrando con las capturas de pantalla necesarias la realización de la actividad.
-    Debes crear una declaración de subred DHCP para la subred 192.168.N.0 máscara 255.255.255.0. En esta subred debes:
-  	
-    5.1.	Definir dos rangos de direcciones IP para asignar a los clientes dinámicamente:
-
-  	5.1.1.	Rango 1: desde 192.168.N.11 hasta 192.168.N.50.
-  	
-    5.1.2.	Rango 2: desde 192.168.N.100 hasta 192.168.N.149.
-
-  	5.2.	El servidor debe ser autoritativo en toda la subred.
-
-  	5.3.	El tiempo de concesión máximo para los clientes de la subred será de 2 horas y el de concesión por defecto de 1 hora.
-
-  	5.4.	Se establecerá PC1.aulasri.local como nombre del servidor.
-
-  	5.5.	A los clientes se les asignará la máscara 255.255.255.0, la IP de la puerta de enlace 192.168.N.254, la dirección de broadcast 192.168.3.255, el nombre de dominio aulasri.local y las direcciones IP      de los servidores de dominio 195.235.113.3 y 195.235.96.90.
-
-  	5.6.	Dentro de la subred se declararán dos reservas para las máquinas:
-
-  	5.6.1.	Dirección MAC 00:08:01:12:23:34, IP asignada 192.168.N.3 y nombre asignado a la máquina "PC3.aulasri.local".
-
-  	5.6.2.	Dirección MAC 00:08:01:34:45:56, IP asignada 192.168.N.4 y nombre asignado a la máquina equipo "PC4.aulasri.local".
-
-  	5.7.	Las dos máquinas dispondrán de un tiempo de concesión por defecto de media hora. Y a la máquina PC4 se le asignará como servidor de tiempo NTP el servidor de IP 200.23.51.205 y como servidor DNS         8.8.8.8.
-![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/ae6abc3b-c4bb-4803-bcc1-ed88a6b92ef5)
-![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/b2ca7875-a284-4124-acde-510d25ed37e4)
-![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/aecd06db-6d9d-43bc-b8ed-c958cf971ce6)
-![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/d3e56c42-1bc3-4560-be4e-787abffa96db)
-![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/3b2f1b3f-6c9e-41b6-a1ee-b0c5c1295b1f)
+Debes crear una declaración de subred DHCP para la subred 192.168.N.0 máscara 255.255.255.0. En esta subred debes:
+o	Definir dos rangos de direcciones IP para asignar a los clientes dinámicamente:
+	Rango 1: desde 192.168.N.11 hasta 192.168.N.50.
+	Rango 2: desde 192.168.N.100 hasta 192.168.N.149.
+o	El servidor debe ser autoritativo en toda la subred.
+o	El tiempo de concesión máximo para los clientes de la subred será de 2 horas y el de concesión por defecto de 1 hora.
+o	Se establecerá PC1.aulasri.local como nombre del servidor.
+o	A los clientes se les asignará la máscara 255.255.255.0, la IP de la puerta de enlace 192.168.N.254, la dirección de broadcast 192.168.3.255, el nombre de dominio aulasri.local y las direcciones IP de los servidores de dominio 195.235.113.3 y 195.235.96.90.
+o	Dentro de la subred se declararán dos reservas para las máquinas:
+	Dirección MAC 00:08:01:12:23:34, IP asignada 192.168.N.3 y nombre asignado a la máquina "PC3.aulasri.local".
+	Dirección MAC 00:08:01:34:45:56, IP asignada 192.168.N.4 y nombre asignado a la máquina equipo "PC4.aulasri.local".
+o	Las dos máquinas dispondrán de un tiempo de concesión por defecto de media hora. Y a la máquina PC4 se le asignará como servidor de tiempo NTP el servidor de IP 200.23.51.205 y como servidor DNS 8.8.8.8.
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/cbc8ccdf-b037-4d71-9db6-ac09c388c46f)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/105c5848-43c3-4807-9b4d-e0cefca0060f)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/23d08c46-4065-4a16-9a5d-fcf66c3f1f3a)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/6b1d603e-a754-41b3-b535-6441dd6ec5c1)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/186a28bf-79a3-411c-a419-794447fc341d)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/b9ace7de-9230-4b9f-beb7-d5a1ac77a7b2)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/90e18a90-c3f1-4048-ab7d-444ac85dc683)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/f51e0386-bc61-46a2-81c0-d5ae99cea23f)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/9f3e1678-cb90-4757-91f7-c80926c9d905)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/28252e99-c138-49c4-b4bb-76c51636b6fe)
 
 
-   
+
 7.	Detén e inicia el servidor DHCP con comandos y muestra una captura de pantalla de lo realizado.
 
-8.	Inicia el cliente PC2 y obtén la configuración de los parámetros de red (al menos IP, máscara, puerta de enlace y servidores DNS) con comandos. Muestra una captura de pantalla con la ejecución de los          comandos y el resultado obtenido señalando los parámetros recibidos en la asignación dinámica.
+8.	Inicia el cliente PC2 y obtén la configuración de los parámetros de red (al menos IP, máscara, puerta de enlace y servidores DNS) con comandos. Muestra una captura de pantalla con la ejecución de los comandos y el resultado obtenido señalando los parámetros recibidos en la asignación dinámica.
 
-9.	Realiza una captura de pantalla mostrando el contenido actual del archivo de concesiones en el servidor y explica su contenido..
+9.	Realiza una captura de pantalla mostrando el contenido 
+
+10.	contenido..
 
 NOTA IMPORTANTE
 Para el apartado 3 es necesario entregar las capturas de pantalla de los principales pasos realizados, explicando el proceso seguido en cada uno de ellos. Las capturas de pantalla realizadas deben tener como fondo de pantalla la plataforma con tu usuario mostrando claramente la foto de tu perfil. Aquellos apartados/subapartados que no cumplan esta condición no serán corregidos.
+

@@ -73,8 +73,29 @@
     2.3.	Generar GPOs en el dominio Windows para que la información (Documentos y Escritorio) de cada usuario esté disponible automáticamente en cualquier equipo del dominio al que se conecte, pero sólo para           los usuarios de la UO "Departamento IT".
     
     2.4.	Comprobar adecuadamente (y demostrar con capturas) que funciona cada uno de los puntos solicitados.
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/bf0ec2df-fed2-4767-be02-f5ffa18212c2)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/ec2e8098-826b-429a-9be7-038d4dcc6fa7)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/f3e52b64-0bda-46e3-8ac2-1ac16cd29c36)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/1e16e306-e259-4703-a78d-23ed14c0fec3)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/e40a9530-4b8e-4011-a9cc-9a33927b242d)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/c3e925e1-3fc0-46d7-a4aa-22ba0221f2d1)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/a2fa0112-46cf-419c-8a8c-f92b67586496)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/cff84e3b-d923-4dd4-9a88-e4af6392bc24)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/acb0c97b-32e4-4433-abcb-eb3b87d180d1)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/6478b3bb-0cb4-4575-a89f-a73e6a82e072)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/19fbba07-91c6-491d-bdd8-105d78e2c14c)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/6d22337c-1b7c-4db9-83e9-df315fabae7e)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/c5eef131-0014-4db2-9c66-4956462671a5)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/fb955073-824c-42ea-bc5d-75358b3b42c4)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/6d44b28d-b111-4f37-9f50-9b403b8e5737)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/205638c8-cbef-477b-ac7a-757748f364d8)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/6f38c584-e49d-41ee-9c07-73a212b3331d)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/91503b56-1d9b-4142-a129-3e5ff9102274)
 
-4.	Apartado 3. OpenLDAP. En este apartado, configuraremos un Directorio con Ubuntu Server 18.04.
+
+   
+
+5.	Apartado 3. OpenLDAP. En este apartado, configuraremos un Directorio con Ubuntu Server 18.04.
 
     3.1.	Instalar un servidor Ubuntu 18.04 con OpenLDAP. El nombre Dominio que vamos a utilizar será lbk.local.
     
@@ -82,7 +103,7 @@
     
     3.3.	Comprobar adecuadamente (y demostrar con capturas) que funciona cada uno de los puntos solicitados.
 
-5.	Apartado 4. Objetos de OpenLDAP
+6.	Apartado 4. Objetos de OpenLDAP
 
     4.1.	Generar unidades organizativas, grupos y usuarios, así como recursos en el propio sistema para comprobar su funcionamiento.
     
@@ -92,7 +113,7 @@
     
     4.3.	Comprobar adecuadamente (y demostrar con capturas) que funciona cada uno de los puntos solicitados.
 
-6.	Apartado 5. Conclusiones y estudio comparativo.
+7.	Apartado 5. Conclusiones y estudio comparativo.
 
     5.1.	¿Existe alguna manera de integrar las funcionalidades de AD en GNU/Linux, usando sólo servidores GNU/Linux y ahorrando en licencias? Enlaza algún tutorial que explique cómo se haría.
     

@@ -73,8 +73,33 @@
     2.3.	Generar GPOs en el dominio Windows para que la información (Documentos y Escritorio) de cada usuario esté disponible automáticamente en cualquier equipo del dominio al que se conecte, pero sólo para           los usuarios de la UO "Departamento IT".
     
     2.4.	Comprobar adecuadamente (y demostrar con capturas) que funciona cada uno de los puntos solicitados.
-
-
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/f7a6546a-3690-4981-8c1c-7e4784f32b1b)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/76779b4d-1265-4c94-bc3a-d22bcb11118f)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/a3744df7-e901-4c22-b1eb-1d4c63cb2367)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/fb21792e-4bd1-4b5a-98c5-8c82441c6182)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/6f7d5d22-62b8-48e2-a22f-3d0a91b088cf)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/7d17b809-91b4-4056-a598-e02dfaa273b1)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/65c02f80-6a29-489d-bff8-ae2d151ca501)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/15648fef-3b9a-46cd-8afe-c7a1586937c2)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/4ee0a360-2118-4391-ba78-650376143e31)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/f2105384-877f-4530-8dc5-7d07928ee74c)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/48d6020d-27a3-422f-9096-be938d30278c)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/f57b668d-e349-4d1f-a53d-76e808a40ac4)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/2dd35a16-0f37-42f3-8e23-a920a3f4eec9)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/e1dd8897-0ae4-4237-943b-571ee2bf21a2)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/ea771bf9-0433-4de6-a627-9ebec2bd8be9)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/cf2db22e-00d3-479e-a767-18ce8b5e56d1)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/5886bc9b-5811-47e6-8d11-423346fdaea9)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/a589f0a3-8444-410f-b722-ddb89ee5fb97)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/49dfc378-105f-497b-b910-826be138c58f)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/fc0e2f67-5228-4228-834e-c06bb2983c1d)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/4a6ccf2d-03a3-4291-b09f-21d22bd5b27b)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/1dd53f38-e260-47b7-8592-5d5f682b2442)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/753fedc9-5739-4570-ae38-eade5e4f9bab)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/11cc14e6-d9b2-4648-b540-cf72b3848ca6)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/9867ff54-27fe-463c-8ba4-cf4047c3d6ce)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/084c788f-9a95-4fc7-a58f-dd6d9596b2ac)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/e948cfd3-4f19-4fb2-ae00-e7eb77eb3d26)
 
 
    

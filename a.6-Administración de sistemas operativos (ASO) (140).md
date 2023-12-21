@@ -6,6 +6,22 @@
     
     1.3.	Comprobar adecuadamente (y demostrar con capturas) que funciona cada uno de los puntos solicitados.
 
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/5b59b6fd-2e17-47a8-b218-7f065bfe2a23)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/9ea09b21-ebd0-4e1a-b295-8fc638d406b5)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/9971a2ee-62a5-4909-ad16-2ab8351e1d58)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/2f5fe202-df35-4db6-ab2b-34df2f97e9e4)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/07805042-5b67-4fff-8282-f95c85cb3b1d)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/ca425924-84c6-4c62-9a8c-5e8b8dc5304c)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/15bb3886-07c9-4ccf-8eb2-ba4f927b5c87)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/4a6fddb3-0177-48f8-a254-e047b748842d)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/5d2987ac-897d-41eb-b233-5ad3b4f5f94c)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/967b0d1b-557a-40e5-b42b-14374e1cbdab)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/39f34906-2456-4f56-bbe6-f7cfdadaaf1f)
+
+
+
+
+
 2.	Apartado 2. Objetos de AD
 
     2.1.	Generar unidades organizativas, grupos y usuarios, así como recursos en el propio sistema para comprobar su funcionamiento.

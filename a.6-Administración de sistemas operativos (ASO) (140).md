@@ -103,15 +103,8 @@
 ![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/c1992259-eae6-4532-91a8-2f8704deccfe)
 ![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/6a959c64-1f85-4465-8c79-c9f68fd1d85d)
 ![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/9e66d181-3b6f-4b73-aaea-8a72e352bd3f)
-![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/435a0ff6-99d3-4b3a-9154-568ae82840d6)
-![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/8773f671-6d32-43e5-be29-1525baed46ed)
-![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/dfa372c0-4d65-450b-8d10-c322f002615f)
-![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/ca23de03-00e1-4fd5-bb58-7f34f9982b5e)
-![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/1d271a5d-bfdf-4d4f-93c8-d4e0a768a106)
 
 
-con este video pude acceder desde el servidor un usuario
-https://www.youtube.com/watch?v=C1G2j5JXah0&t=359s
 
 
 

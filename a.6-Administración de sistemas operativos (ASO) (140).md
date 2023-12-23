@@ -58,9 +58,6 @@
 ![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/6cee5f37-4328-47a7-99e3-98a626d3f588)
 ![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/712195ee-d904-4504-912c-e026be15d625)
 
-con este video pude acceder desde el servidor un usuario
-https://www.youtube.com/watch?v=C1G2j5JXah0&t=359s
-
 
 
 
@@ -121,6 +118,9 @@ https://www.youtube.com/watch?v=C1G2j5JXah0&t=359s
 ![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/ca23de03-00e1-4fd5-bb58-7f34f9982b5e)
 ![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/1d271a5d-bfdf-4d4f-93c8-d4e0a768a106)
 
+
+con este video pude acceder desde el servidor un usuario
+https://www.youtube.com/watch?v=C1G2j5JXah0&t=359s
 
 
 

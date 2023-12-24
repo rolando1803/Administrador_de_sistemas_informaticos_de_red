@@ -111,6 +111,10 @@
 ![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/1af8770b-fff0-4145-8ce6-262f73aafef6)
 ![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/19e4a19e-bd9b-4abc-acef-b135424353a7)
 ![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/6feab910-67a0-4b62-8a76-652f9de15899)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/78234b5d-d4e6-47ca-a384-6c32b5ff7a46)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/ef28592b-6926-4437-b31e-f9d9374bb953)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/e5a38b1d-533d-4eb3-8af4-132ef93f57ad)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/7f2b8411-c17a-42d1-809c-e377c3272ac7)
 
 
 

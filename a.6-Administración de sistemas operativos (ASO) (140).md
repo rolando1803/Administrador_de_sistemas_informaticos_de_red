@@ -139,8 +139,30 @@
     4.2.	Investiga si hay opción de usar GPO o herramientas similares con OpenLDAP. Justifica dicha investigación.
     
     4.3.	Comprobar adecuadamente (y demostrar con capturas) que funciona cada uno de los puntos solicitados.
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/3d4c515a-1f6f-4c3b-904e-b946bb0821fa)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/370d7c8f-bea3-4530-8a72-3150b6bbbccd)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/bd099f33-48b1-4838-b04b-24cca8614a97)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/1bfd64fd-000f-48b8-adea-bd344a18fb5e)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/8af07423-c626-423c-b121-7b8a647eea64)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/1f7f5b1c-8f52-4a4f-b35e-433c7ca60569)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/55e44bda-b70a-4b87-a531-8e46ab1e307e)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/d4e1026b-fb55-466e-aad1-84ff1d9eac59)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/a3ea29ab-d8e0-40a2-a41a-7de24bd45a67)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/44da82f7-200b-48cc-8ab0-127c7479ed76)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/8dc88ceb-f416-4c8e-878a-9a0979984a76)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/71f6b3c4-f55e-48bc-ab4c-9a2a96c5595f)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/1f49d9d6-cf45-4e23-b4e5-c89933e9170d)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/7b250295-83dd-4940-a45f-c0b4acbb8353)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/6e093453-43c1-46ca-b1b1-7726eec3359b)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/5dbe82b9-da0a-408e-b8a6-cbe368842807)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/3c345968-1ece-4427-8a48-bae7d285fae2)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/1200695d-2d4d-4e70-8815-c32e8776ecdd)
+![image](https://github.com/rolando1803/Administrador_de_sistemas_informaticos_de_red/assets/55965131/cf13f0e3-30fa-4046-b6d5-f84906e79314)
 
-6.	Apartado 5. Conclusiones y estudio comparativo.
+
+   
+
+7.	Apartado 5. Conclusiones y estudio comparativo.
 
     5.1.	¿Existe alguna manera de integrar las funcionalidades de AD en GNU/Linux, usando sólo servidores GNU/Linux y ahorrando en licencias? Enlaza algún tutorial que explique cómo se haría.
     
